@@ -45,9 +45,9 @@ public class ClasseSistema {
         
         //imprimir
         System.out.println("cliente " + cliente.nome + " " + cliente.cpf + " " + cliente.razaoSocial);
-        System.out.println("fornecedor " + fornecedor.nome + "" + fornecedor.cpf + "" + fornecedor.estoque);
+        System.out.println("fornecedor " + fornecedor.nome + " " + fornecedor.cpf + " " + fornecedor.estoque);
         System.out.println("Produto " + produto.nome + " " + produto.preco);
-        System.out.println("usuario " + usuario.nome + "" +  usuario.cpf + "" + usuario.senha );
+        System.out.println("usuario " + usuario.nome + " " +  usuario.cpf + " " + usuario.senha );
         
 
 
