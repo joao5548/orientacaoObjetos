@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "herancaMetodos",
         "OrientacaoObjetos",
-        "herancaMetodos"
+        "EuPegueiSeuUsuarioEmprestadoNaoSeIncomode(emanuel)"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
