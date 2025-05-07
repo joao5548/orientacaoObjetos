@@ -15,7 +15,9 @@ public class Estudante {
         this.matricula = teclado.nextInt();
         System.out.println("DIgite seu curso: ");
         this.curso = teclado.nextLine();
-        
+        System.out.println("nome: " + this.nome );
+        System.out.println(" matricula: " + this.matricula);
+        System.out.println("curso: " + this.curso);      
     }
     
 

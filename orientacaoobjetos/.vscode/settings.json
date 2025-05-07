@@ -3,7 +3,8 @@
         "src",
         "herancaMetodos",
         "OrientacaoObjetos",
-        "AtividadeAvaliativa2"
+        "AtividadeAvaliativa2",
+        "polimorfismo"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

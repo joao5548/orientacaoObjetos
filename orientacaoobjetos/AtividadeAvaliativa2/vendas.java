@@ -17,7 +17,7 @@ public class vendas {
 
         if (this.vendas>=this.numero) {
             double total = this.vendas*this.comissao;
-            System.out.println("A comissão é de: " + total + this.vendas);
+            System.out.println("A comissão é de: " + total);
         }else{
             System.out.println("não tera comissão");
         }
